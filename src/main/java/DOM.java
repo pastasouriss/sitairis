@@ -19,7 +19,7 @@ public class DOM {
                 System.out.println("Builder: " + house.getElementsByTagName("builder").item(0).getTextContent());
                 System.out.println("Price: " + house.getElementsByTagName("price").item(0).getTextContent());
                 System.out.println("Construction Date: " + house.getElementsByTagName("construction_date").item(0).getTextContent());
-                System.out.println("----------");
+                System.out.println("||||||||||||||||||");
             }
         } catch (Exception e) {
             e.printStackTrace();
