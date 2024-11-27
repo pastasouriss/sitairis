@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <house id="1">
+        <address>123 Maple Street</address>
+        <builder>Builders</builder>
+        <price>129900.99</price>
+        <construction_date>2023-01-15</construction_date>
+    </house>
+    <house id="2">
+        <address>456 Oak Avenue</address>
+        <builder>Construction</builder>
+        <price>239900.00</price>
+        <construction_date>2023-02-20</construction_date>
+    </house>
+    <house id="3">
+        <address>789 Pine Road</address>
+        <builder>Developers</builder>
+        <price>119900.50</price>
+        <construction_date>2022-11-01</construction_date>
+    </house>
+    <house id="4">
+        <address>321 Birch Lane</address>
+        <builder>Homes</builder>
+        <price>139900.00</price>
+        <construction_date>2023-03-05</construction_date>
+    </house>
+    <house id="5">
+        <address>654 Cedar Way</address>
+        <builder>Architects</builder>
+        <price>99900.99</price>
+        <construction_date>2023-06-10</construction_date>
+    </house>
+    <house id="6">
+        <address>987 Spruce Court</address>
+        <builder>Associates</builder>
+        <price>89900.00</price>
+        <construction_date>2023-07-18</construction_date>
+    </house>
+    <house id="7">
+        <address>159 Elm Boulevard</address>
+        <builder>Estates</builder>
+        <price>159900.99</price>
+        <construction_date>2023-04-12</construction_date>
+    </house>
+</catalog>
